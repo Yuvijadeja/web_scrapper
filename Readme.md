@@ -20,7 +20,7 @@ pip install requests beautifulsoup4 pandas
 ```
 
 ## How to Run
-1. Clone or download the script.
+1. Clone or repository from https://github.com/Yuvijadeja/web_scrapper.
 2. Install the required dependencies using the command above.
 3. Run the script:
    
